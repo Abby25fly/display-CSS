@@ -1,0 +1,46 @@
+body{
+  background-color: #33322e;
+  font-size: 20px;
+  font-family: cursive;
+}
+.cuadrado1{
+    background-color:#FFE900;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 16px;
+}
+
+.contenedor {
+    text-align: center;
+    display: -webkit-flex;
+    display: flex;
+    width: 400px;
+    height: 140px;
+    background-color: black;
+}
+
+.cuadrado {
+    text-align: center;
+    background-color:#FFE900;
+    width: 100px;
+    height: 100px;
+    margin: 16px;
+}
+
+.cuadrado3 {
+    display: inline-block;
+    text-align: center;
+    background-color:#FFE900;
+    width: 100px;
+    height: 100px;
+    margin: 16px;
+}
+
+.cuadrado4{
+    background-color:#FFE900;
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    margin: 16px;
+}
